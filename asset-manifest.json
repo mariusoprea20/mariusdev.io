@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/mariusdev.io/static/css/main.dbf10d9a.css",
+    "main.js": "/mariusdev.io/static/js/main.f0a77d14.js",
+    "static/js/787.7388b693.chunk.js": "/mariusdev.io/static/js/787.7388b693.chunk.js",
+    "static/media/animation3.png": "/mariusdev.io/static/media/animation3.d6bce7cc7e1df910fcd6.png",
+    "static/media/animation2.png": "/mariusdev.io/static/media/animation2.f485007a9bf90c90e346.png",
+    "static/media/animation1.png": "/mariusdev.io/static/media/animation1.12db22f0caba4532ab3e.png",
+    "static/media/tweeterData2.png": "/mariusdev.io/static/media/tweeterData2.8c866cd46178b4611a3b.png",
+    "static/media/tweeterData1.png": "/mariusdev.io/static/media/tweeterData1.b4e3bf61ecd2d6b6a966.png",
+    "static/media/northumbria.jpg": "/mariusdev.io/static/media/northumbria.4174e93d030fd34dca7f.jpg",
+    "static/media/myplace2.png": "/mariusdev.io/static/media/myplace2.18494ca608840c894d16.png",
+    "static/media/myplace9.png": "/mariusdev.io/static/media/myplace9.e8d042cab017bedd53d2.png",
+    "static/media/tweeterData3.png": "/mariusdev.io/static/media/tweeterData3.ac47d815991ecdf63f63.png",
+    "static/media/myplace1.png": "/mariusdev.io/static/media/myplace1.241e61838d0e3bdb0075.png",
+    "static/media/myplace8.png": "/mariusdev.io/static/media/myplace8.bd679c958c315ca0d0f3.png",
+    "static/media/myplace3.png": "/mariusdev.io/static/media/myplace3.1f3d2f1035564243565d.png",
+    "static/media/myplace5.png": "/mariusdev.io/static/media/myplace5.aef0263eff513c0c3fc7.png",
+    "static/media/myplace4.png": "/mariusdev.io/static/media/myplace4.c8d640d558597c27d72d.png",
+    "static/media/myplace6.png": "/mariusdev.io/static/media/myplace6.ac4fd451e2fc72c9c30e.png",
+    "static/media/myplace7.png": "/mariusdev.io/static/media/myplace7.4c3c5e9c44facaa17ae5.png",
+    "static/media/marker.png": "/mariusdev.io/static/media/marker.17345b61e4117bf2d4c8.png",
+    "index.html": "/mariusdev.io/index.html",
+    "main.dbf10d9a.css.map": "/mariusdev.io/static/css/main.dbf10d9a.css.map",
+    "main.f0a77d14.js.map": "/mariusdev.io/static/js/main.f0a77d14.js.map",
+    "787.7388b693.chunk.js.map": "/mariusdev.io/static/js/787.7388b693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbf10d9a.css",
+    "static/js/main.f0a77d14.js"
+  ]
+}
