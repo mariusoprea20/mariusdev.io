@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mariusdev.io/static/css/main.dbf10d9a.css",
-    "main.js": "/mariusdev.io/static/js/main.f0a77d14.js",
+    "main.css": "/mariusdev.io/static/css/main.b061e7db.css",
+    "main.js": "/mariusdev.io/static/js/main.2313959b.js",
     "static/js/787.7388b693.chunk.js": "/mariusdev.io/static/js/787.7388b693.chunk.js",
     "static/media/animation3.png": "/mariusdev.io/static/media/animation3.d6bce7cc7e1df910fcd6.png",
     "static/media/animation2.png": "/mariusdev.io/static/media/animation2.f485007a9bf90c90e346.png",
@@ -21,12 +21,12 @@
     "static/media/myplace7.png": "/mariusdev.io/static/media/myplace7.4c3c5e9c44facaa17ae5.png",
     "static/media/marker.png": "/mariusdev.io/static/media/marker.17345b61e4117bf2d4c8.png",
     "index.html": "/mariusdev.io/index.html",
-    "main.dbf10d9a.css.map": "/mariusdev.io/static/css/main.dbf10d9a.css.map",
-    "main.f0a77d14.js.map": "/mariusdev.io/static/js/main.f0a77d14.js.map",
+    "main.b061e7db.css.map": "/mariusdev.io/static/css/main.b061e7db.css.map",
+    "main.2313959b.js.map": "/mariusdev.io/static/js/main.2313959b.js.map",
     "787.7388b693.chunk.js.map": "/mariusdev.io/static/js/787.7388b693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbf10d9a.css",
-    "static/js/main.f0a77d14.js"
+    "static/css/main.b061e7db.css",
+    "static/js/main.2313959b.js"
   ]
 }
