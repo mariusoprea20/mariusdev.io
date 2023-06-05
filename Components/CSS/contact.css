@@ -1,0 +1,90 @@
+.contact{
+    text-align: center;
+    background-color: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+    flex-direction: row;
+    padding: 10% 10% 10% 10%;
+}
+.contactDetails {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: left;
+    margin-bottom: 2em;
+    color: #848383;
+}
+
+.contactDetails h2 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+.contactDetails p {
+    font-size: 1.2em;
+    color: #848383;
+}
+
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    gap:20px;
+}
+
+.contactForm button {
+    width:100px;
+    cursor: pointer;
+    padding: 0.5em 1em;
+    color: #fff;
+    background-color: rgb(100, 107, 109);
+    border: none;
+    border-radius: 10px;
+    text-transform: uppercase;
+    transition: background-color 0.2s ease;
+}
+
+.contactForm button:hover {
+    background-color:  rgb(45, 46, 46);
+}
+.form-group{
+display: flex;
+align-items: flex-start;
+width: 100%;
+height: 100%;
+}
+
+.form-group input{
+    width: 100%;
+    height: 40px;
+    border:none;
+    border-radius: 5px;
+}
+
+.form-group textarea{
+    width: 100%;
+    height: 120px;
+    border:none;
+    border-radius: 5px;
+}
+
+@media (max-width: 900px ){
+    .contact{
+        display:flex;
+        flex-direction: column;
+
+    }
+}
+
+@media (max-width: 500px ){
+    .contactDetails{
+        font-size:small;
+    }
+}
+
+
+

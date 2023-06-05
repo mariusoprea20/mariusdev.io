@@ -1,0 +1,24 @@
+.nav-link {
+    cursor: pointer;
+    color: #c9c8c8 !important;
+    margin: 0 5px;
+    text-decoration: none !important;
+  }
+  
+  .nav-link:hover {
+    color: #fff !important;
+  }
+  
+  .intro-nav-link{
+    color: #fff !important;
+    text-decoration: none !important;
+    cursor: pointer;
+  }
+
+  @media (max-width: 992px) {
+  .navbar-collapse {
+    text-align: center;
+  }
+}
+
+

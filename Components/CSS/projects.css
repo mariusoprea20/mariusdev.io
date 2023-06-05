@@ -1,0 +1,140 @@
+.projectExamples {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 2rem;
+    background-color: #f0ecec;
+    gap: 2rem;
+    padding-top:5%;
+}
+
+.myPlace, .animation, .tweeterData {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    color: #000;
+    margin-bottom: 2rem;
+    width: 80%;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 5px #b4b3b3;
+    border: 1rem solid #ffffff;
+    border-radius: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.myPlace:hover, .animation:hover, .tweeterData:hover {
+    transform: translateY(-15px);
+    box-shadow: 0px 10px 20px rgba(0,0,0,5);
+}
+
+.myPlaceCarousel, .animationCarousel, .tweeterCarousel {
+    flex: 0 0 50%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+
+.projectExamples h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color: #333333;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.techUsed {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+
+.myPlaceDetails h4, .animationDetails h4, .tweeterDetails h4 {
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.myPlaceDetails p, .animationDetails p, .tweeterDetails p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.techUsed p {
+    padding: 5px 10px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.linkOpener{
+    margin-top:10%;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.linkIcon{
+    display: flex;
+    flex-direction: row;
+}
+
+.linkIcon img{
+    height: 30px;
+}
+
+.linkIcon p{
+    font-size: 20px;
+    font-weight: 700;
+    color:#000; 
+}
+
+.linkIcon :hover{
+    color:#0256a3;
+    cursor: pointer;
+}
+
+@media (max-width: 992px) {
+    .myPlace, .animation, .tweeterData {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .myPlaceCarousel, .animationCarousel, .tweeterCarousel {
+        width:auto;
+        height: auto;
+        margin-bottom: 10%;
+    }
+}
+
+@media (max-width: 550px) {
+    .myPlace, .animation, .tweeterData {
+        width:100%
+    }
+
+    .myPlaceDetails p, .animationDetails p, .tweeterDetails p {
+        font-size: 12px;
+    }
+
+    .linkOpener p{
+        font-size: large;
+    }
+
+}
+
+
